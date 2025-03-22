@@ -1,6 +1,6 @@
 <h1 align="center">Olá  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, eu sou o Jonathan Mattos </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=verdana&pause=1000&color=ffff&size=40&center=true&vCenter=true&width=1000&lines=Front-end+Developer!)](https://git.io/typing-svg)
 
 
 Sou um estudante apaixonado por desenvolvimento web.
@@ -10,8 +10,8 @@ Tenho experiência com CSS, HTML, JavaScript, TypeScript, ReactJS, MySQL, MongoD
 *******
 
 <div display="flex" align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=blzjom&theme=dark&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=blzjom&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jodmdev&theme=dark&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jodmdev&layout=compact&langs_count=8&theme=dark"/>
 </div>
 	
 <h3 align="center">Tecnologias:</h3>
@@ -24,13 +24,10 @@ Tenho experiência com CSS, HTML, JavaScript, TypeScript, ReactJS, MySQL, MongoD
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
-  <a href="mailto:jomdev@outlook.com" target="_blank">
+  <a href="mailto:jodmdev@outlook.com" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Gmail-007ee5?style=for-the-badge&logo=mention&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/blzjom/" target="_blank">
+  <a href="https://www.linkedin.com/in/jodmdev/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-007bb6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=%2B5524998601753&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-34af23?style=for-the-badge&logo=whatsApp&logoColor=white"/>
   </a>
 </p>
